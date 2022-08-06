@@ -1,5 +1,7 @@
 # code-filter-rubika
-***دستورات***
+
+***دستورات ترموکس:***
+
 `pkg install git`
 
 `pkg install git -y`
