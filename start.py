@@ -1,6 +1,6 @@
 import os
 import time
-import random
+import mmd-federal
 from random import choice
 from turtle import color
 
